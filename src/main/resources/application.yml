@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: demo-chats-bd-cassandra
+spring.cassandra:
+  keyspace-name: chat_test
+  username: gPAJHujjhwOcUBScnQsOKAxS
+  password: WnNS40gPSPqWJjCYDt42vfstvNeAXfKnqQRJd37cwkUsvAzW5LvnFQ1.kusG.cTOr_tbXk.R+StSBpdM0p-EwoOmi9LBFTbpHB-728mRRnziZas+9Bzcfa5XUF,cBujB
+  schema-action: CREATE_IF_NOT_EXISTS # for dev purpose
+  request:
+    timeout: 10s
+  connection:
+    connect-timeout: 10s
+    init-query-timeout: 10s
+
+datastax.astra:
+  # You must download it before
+  secure-connect-bundle: src/main/resources/secure-connect-cassandra-test-chat.zip

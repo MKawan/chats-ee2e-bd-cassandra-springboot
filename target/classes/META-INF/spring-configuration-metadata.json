@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "datastax.astra",
+      "type": "demo.chats.bd.cassandra.demo_chats_bd_cassandra.conection.ConectionAstra",
+      "sourceType": "demo.chats.bd.cassandra.demo_chats_bd_cassandra.conection.ConectionAstra"
+    },
+    {
+      "name": "datastax.astra",
+      "type": "demo.chats.bd.cassandra.demo_chats_bd_cassandra.datastra.DataStaxAstraProperties",
+      "sourceType": "demo.chats.bd.cassandra.demo_chats_bd_cassandra.datastra.DataStaxAstraProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "datastax.astra.secure-connect-bundle",
+      "type": "java.io.File",
+      "sourceType": "demo.chats.bd.cassandra.demo_chats_bd_cassandra.conection.ConectionAstra"
+    },
+    {
+      "name": "datastax.astra.secure-connect-bundle",
+      "type": "java.io.File",
+      "sourceType": "demo.chats.bd.cassandra.demo_chats_bd_cassandra.datastra.DataStaxAstraProperties"
+    }
+  ],
+  "hints": []
+}
