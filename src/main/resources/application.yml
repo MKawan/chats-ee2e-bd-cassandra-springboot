@@ -3,8 +3,8 @@ spring:
     name: demo-chats-bd-cassandra
 spring.cassandra:
   keyspace-name: chat_test
-  username: gPAJHujjhwOcUBScnQsOKAxS
-  password: WnNS40gPSPqWJjCYDt42vfstvNeAXfKnqQRJd37cwkUsvAzW5LvnFQ1.kusG.cTOr_tbXk.R+StSBpdM0p-EwoOmi9LBFTbpHB-728mRRnziZas+9Bzcfa5XUF,cBujB
+  username: 
+  password: 
   schema-action: CREATE_IF_NOT_EXISTS # for dev purpose
   request:
     timeout: 10s
