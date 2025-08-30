@@ -33,6 +33,17 @@ O projeto é ideal para aplicações de chat em tempo real que necessitam
     ├── pom.xml
     └── README.md
 
+## Imagens Test
+
+<img width="1366" height="768" alt="Captura de tela de 2024-11-07 19-59-29" src="https://github.com/user-attachments/assets/35575ef8-078f-4680-a8ad-ccb98e808985" />
+
+<img width="1366" height="768" alt="Captura de tela de 2024-11-30 00-43-48" src="https://github.com/user-attachments/assets/aa77ed0b-f25f-4c8b-8656-40355a34f44a" />
+
+<img width="1366" height="768" alt="Captura de tela de 2024-11-30 00-47-59" src="https://github.com/user-attachments/assets/4cfa541b-5dac-4069-83bd-fe67d4975bca" />
+
+<img width="1366" height="768" alt="Captura de tela de 2024-11-30 00-51-09" src="https://github.com/user-attachments/assets/3e67b03c-5f62-4dbb-b658-75d60d6e4711" />
+
+
 ------------------------------------------------------------------------
 
 ## ⚙️ Pré-requisitos
